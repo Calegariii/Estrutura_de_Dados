@@ -13,4 +13,6 @@ def cadastrar_aluno():
     while True:
         print()
 
+print("a")
+
 
